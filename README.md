@@ -2,6 +2,7 @@
 <h2 align="left">👋Welcome,<br>
 I am Sabah currently pursuing a Bachelor of Technology (BTech) degree in Computer Science Artificial intelligence<br>
 where I am acquiring a comprehensive understanding of various aspects of computer science and its applications.<br>
+  (https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 </h2>
 
 ###
